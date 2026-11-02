@@ -254,5 +254,3 @@ Algumas funcionalidades que podem ser adicionadas em versões futuras:
 ## 👨‍💻 Autor
 
 Desenvolvido como projeto de portfólio na área de **Inteligência Artificial, Python e desenvolvimento de aplicações com LLMs**.
-
-⭐ Se este projeto foi interessante, considere deixar uma estrela no repositório!
